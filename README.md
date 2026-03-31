@@ -26,7 +26,8 @@ This project aims to bridge that gap by combining data analysis with AI-generate
 - Python
 - Streamlit
 - yfinance
-- OpenAI API
+- Antropic API
+- Tavily API
 - Pandas / NumPy
 
 ## 🚀 How to Run Locally
